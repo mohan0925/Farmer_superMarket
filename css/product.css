@@ -1,0 +1,17 @@
+.desc_p{
+  font-family:sans-serif;
+  font-size: 17px;
+  text-align: left;
+}
+
+.price{
+  font-family: inherit;
+  font-size: 13px;
+}
+
+#inf{
+font-family: 'Satisfy', cursive;
+margin-top: 5px;
+font-size: 35px;
+color:black;
+}

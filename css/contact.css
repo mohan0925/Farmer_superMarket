@@ -1,0 +1,101 @@
+.career{
+    /*background-image: url("http://localhost/milkmartProject/image/careerbanner.jpg")*/
+    height: 350px;
+    width: 100%;
+    background-size: cover;
+}
+.title{
+    font-family: cursive, fantasy, sans-serif;
+}
+.body{
+    background-image: linear-gradient(-90deg, #636e72,#2d3436,#34495e);
+
+}
+
+
+.section1{
+    height: auto;
+    padding: 50px 10;
+    background-image: linear-gradient(-90deg,#000000,#000000,#000000);
+    border-radius: 50px;
+    font-family:;
+}
+.section1 h3{
+    background-image: linear-gradient(-90deg, black ,black);
+    color: #fff;
+    width: 200px;
+    color:#ffffff;
+    font-size: 17px;
+    border-radius: 15px;
+    box-shadow: 2px 3px 4px black;
+    padding: 4px;
+}
+.form input[type="text"]{
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 3px;
+    text-align: center;
+    color: #5a5a5a;
+    margin-top: 8px;
+    border-radius: 0px;
+    margin-top: 20px;
+}
+.form input[type="file"],textarea{
+    border: none;
+    background: #fff;
+    outline: none;
+    width: 100%;
+    padding: 3px 3px 3px 20px;
+    text-align: center;
+    color: #5a5a5a;
+    margin-top: 8px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.form .c1{
+    background: #fff;
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 20px;
+
+}
+.section title{
+    color: #e83e8c;
+}
+
+.small {
+    color: black;
+}
+
+.small {
+    text-decoration-color:black;
+    font-size: 13.4px;
+}
+
+.button {
+    border-radius: 18px;
+    color: #e83e8c;
+    text-align:  ;
+    background-color: #ffffff;
+    padding:  2px 30px ;
+    margin-bottom: auto;
+
+
+
+}
+
+.small s1 {
+    color: #2C3A47;
+    padding-top: 0px;
+}
+
+.small s2 {
+    color: #FC427B;
+    padding-top: 0px;
+}
+
+.small s3 {
+    color: #1B9CFC;
+    padding-top: 0px;
+}
