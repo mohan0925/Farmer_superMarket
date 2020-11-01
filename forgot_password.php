@@ -78,7 +78,7 @@ if(isset($_POST['reset']))
 			$mail->Host = 'smtp.gmail.com;';
 			$mail->SMTPAuth = true;       
 			$mail->Username = 'dharavath.mohan47@gmail.com';
-			$mail->Password = 'mohan@112';          
+			$mail->Password = 'xxxxxxxxxxxx';          
 			$mail->SMTPSecure = 'tls';         
 			$mail->Port = 587;              
 			$mail->setFrom('dharavath.mohan47@gmail.com', 'dharavath mohan');
