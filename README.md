@@ -68,3 +68,8 @@
 
 **User Message:**
 ![user_message](https://user-images.githubusercontent.com/18571407/97797274-a7cb3180-1c13-11eb-865f-bdb046cf253f.png)
+
+
+                                                  **CONTACT US:**
+<img width="936" alt="contact_us" src="https://user-images.githubusercontent.com/18571407/97797336-288a2d80-1c14-11eb-94c4-01ce576f52a2.PNG">
+
