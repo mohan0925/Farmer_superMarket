@@ -52,21 +52,27 @@
 <img width="936" alt="admin_login" src="https://user-images.githubusercontent.com/18571407/97797209-24114500-1c13-11eb-8006-1b157d9e9c82.PNG">
 
 **Add Category:**
+
 ![add_category](https://user-images.githubusercontent.com/18571407/97797166-bebd5400-1c12-11eb-964b-f2b0332419fa.png)
 
 **Delete Category:**
+
 ![delete_category](https://user-images.githubusercontent.com/18571407/97797175-d399e780-1c12-11eb-9b66-8605356ec184.png)
 
 **Products:**
+
 <img width="684" alt="admin_products" src="https://user-images.githubusercontent.com/18571407/97797219-4014e680-1c13-11eb-8a1d-fe921b825bcc.PNG">
 
 **Vendors:**
+
 <img width="772" alt="admin_vendors" src="https://user-images.githubusercontent.com/18571407/97797244-6a66a400-1c13-11eb-82f4-26e0fbc451bc.PNG">
 
 **Message:**
+
 ![message](https://user-images.githubusercontent.com/18571407/97797255-866a4580-1c13-11eb-97d0-a546c0b34095.png)
 
 **User Message:**
+
 ![user_message](https://user-images.githubusercontent.com/18571407/97797274-a7cb3180-1c13-11eb-865f-bdb046cf253f.png)
 
 
