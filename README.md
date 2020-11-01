@@ -1,4 +1,4 @@
-# Farmer_superMarket
+                                                  **CUSTOMER PORTAL:**
 
 **Home page of the ecommerce website:**
 <img width="932" alt="homepage" src="https://user-images.githubusercontent.com/18571407/97792318-8860e400-1bd4-11eb-8b90-c91a48c0c060.PNG">
@@ -34,8 +34,37 @@
 **forgot password for user registered with the portal:**
 ![password sent](https://user-images.githubusercontent.com/18571407/97792438-33be6880-1bd6-11eb-8f2c-221b3863f79c.png)
 
+                                                  **VENDOR PORTAL:**
+**Vendor Home:**
+<img width="933" alt="vendor_home" src="https://user-images.githubusercontent.com/18571407/97797129-68e8ac00-1c12-11eb-9963-c7fc21f6437c.PNG">
 
+**Insert Product:**
+<img width="949" alt="insert_product" src="https://user-images.githubusercontent.com/18571407/97797144-8d448880-1c12-11eb-9482-b3338b8c3d34.png">
 
+**Edit Product:**
+<img width="940" alt="edit_product" src="https://user-images.githubusercontent.com/18571407/97797150-99304a80-1c12-11eb-920c-e731d3b23116.png">
 
+**Vendor Product:**
+<img width="947" alt="vendor_products" src="https://user-images.githubusercontent.com/18571407/97797158-a9e0c080-1c12-11eb-8450-851959ee3ba1.png">
 
+                                                  **ADMIN PORTAL:**
+**Admin Login:**
+<img width="936" alt="admin_login" src="https://user-images.githubusercontent.com/18571407/97797209-24114500-1c13-11eb-8006-1b157d9e9c82.PNG">
 
+**Add Category:**
+![add_category](https://user-images.githubusercontent.com/18571407/97797166-bebd5400-1c12-11eb-964b-f2b0332419fa.png)
+
+**Delete Category:**
+![delete_category](https://user-images.githubusercontent.com/18571407/97797175-d399e780-1c12-11eb-9b66-8605356ec184.png)
+
+**Products:**
+<img width="684" alt="admin_products" src="https://user-images.githubusercontent.com/18571407/97797219-4014e680-1c13-11eb-8a1d-fe921b825bcc.PNG">
+
+**Vendors:**
+<img width="772" alt="admin_vendors" src="https://user-images.githubusercontent.com/18571407/97797244-6a66a400-1c13-11eb-82f4-26e0fbc451bc.PNG">
+
+**Message:**
+![message](https://user-images.githubusercontent.com/18571407/97797255-866a4580-1c13-11eb-97d0-a546c0b34095.png)
+
+**User Message:**
+![user_message](https://user-images.githubusercontent.com/18571407/97797274-a7cb3180-1c13-11eb-865f-bdb046cf253f.png)
